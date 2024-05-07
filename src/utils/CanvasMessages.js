@@ -1,0 +1,9 @@
+export const CanvasMessages = {
+    INIT : "INIT",
+    RESIZE : "RESIZE",
+    START_DRAW_NOTE : "START_DRAW_NOTE",
+    STOP_DRAW_NOTE : "STOP_DRAW_NOTE",
+    PAUSE_SONG : "PAUSE_SONG",
+    STOP_SONG : "STOP_SONG",
+    CHANGE_COLOR : "CHANGE_COLOR"
+}
